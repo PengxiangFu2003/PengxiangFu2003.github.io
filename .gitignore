@@ -1,0 +1,7 @@
+.codex-backups/
+.chrome-cdp-qa/
+qa-screenshots/
+localtunnel.*.log
+node_modules/
+.DS_Store
+Thumbs.db
