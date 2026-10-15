@@ -1,7 +1,6 @@
-.codex-backups/
-.chrome-cdp-qa/
-qa-screenshots/
-localtunnel.*.log
-node_modules/
+_site/
+.bundle/
+.jekyll-cache/
+vendor/
+push.sh
 .DS_Store
-Thumbs.db
