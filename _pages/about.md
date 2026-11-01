@@ -23,6 +23,7 @@ My research focuses on **fetal brain imaging**, **medical image atlas constructi
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉 One paper was accepted by *Expert Systems with Applications (ESWA)*. <span class="metric-highlight">IF = 9.4</span>.
 - *2026.07*: Joined [IDEA Lab](http://idea.bme.shanghaitech.edu.cn/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/) under the supervision of [Prof. Dinggang Shen](https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85165/page.htm).
 - *2025.04*: &nbsp;🎉 One paper was accepted by IJCNN 2025.
 
@@ -30,16 +31,17 @@ My research focuses on **fetal brain imaging**, **medical image atlas constructi
 
 # 📝 Publications | <sup>\*</sup> Equal Contribution
 
+## Journal Papers
+
+**Bone-DETR: Skeletal Context and Progressive Memory for Extremity Fracture Localization**  
+**Pengxiang Fu**, Bin Guan, Jinkun Yao  
+*Expert Systems with Applications (ESWA)*. <span class="metric-highlight">IF = 9.4</span>.
+
 ## Conference Papers
 
 **[Predefined-Time Synchronization Control of Fractional-Order Multi-modal Memristive Neural Networks](https://ieeexplore.ieee.org/abstract/document/11228438/)**  
 Mengwei Niu<sup>\*</sup>, **Pengxiang Fu<sup>\*</sup>**, Hui Zhao, Sijie Niu, Xizhan Gao, Mingwen Zheng, Lixiang Li  
 *2025 International Joint Conference on Neural Networks (IJCNN 2025)*
-
-# 🔄 Revision
-
-- **Bone-DETR: Skeletal Context and Progressive Memory for Lower-Limb Fracture Localization**  
-  **Pengxiang Fu**, Bin Guan, Jinkun Yao. *Under Revision at Expert Systems with Applications (ESWA).* <span class="metric-highlight">IF = 9.4</span>.
 
 <span class='anchor' id='funding'></span>
 
