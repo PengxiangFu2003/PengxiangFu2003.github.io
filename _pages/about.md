@@ -79,6 +79,7 @@ Mengwei Niu<sup>\*</sup>, **Pengxiang Fu<sup>\*</sup>**, Hui Zhao, Sijie Niu, Xi
 
 # 🎖 Honors
 
+- *2026*: <span class="metric-highlight"><strong>National First Prize</strong></span> **(Main Competition), 15th “Challenge Cup” China College Students’ Entrepreneurship Competition** — *《掌测宝——国内首台纸基果蔬农残高精准现场即时检测仪》* (China’s first high-precision, paper-based, on-site rapid detector for pesticide residues in fruits and vegetables). Participant: **Pengxiang Fu**.
 - *2026*: **UJN Outstanding Graduate**
 - *2026*: **UJN Outstanding Graduation Thesis**
 - *2025.12*: **“Jida Star” Recognition**, University of Jinan — university-wide honor awarded to <span class="metric-highlight">20</span> students each year.
