@@ -35,7 +35,7 @@ My research focuses on **fetal brain imaging**, **medical image atlas constructi
 
 **Bone-DETR: Skeletal Context and Progressive Memory for Extremity Fracture Localization**  
 **Pengxiang Fu**, Bin Guan, Jinkun Yao  
-*Expert Systems with Applications (ESWA)*. <span class="metric-highlight">IF = 9.4</span>.
+*Expert Systems with Applications (ESWA), 2026*. <span class="metric-highlight">IF = 9.4</span>.
 
 ## Conference Papers
 
