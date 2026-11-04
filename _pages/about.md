@@ -97,6 +97,5 @@ Mengwei Niu<sup>\*</sup>, **Pengxiang Fu<sup>\*</sup>**, Hui Zhao, Sijie Niu, Xi
   <a href="https://www.visitordots.com/details/vd_hDW2yaukXuIHVDcSj7oAaXx6" aria-label="View visitor map details">
     <img src="https://map.visitordots.com/vmap/202702590414509.png" alt="Visitor map" style="display:block;width:100%;max-width:800px;height:auto;border:0;margin:0 auto;">
   </a>
-  <p style="margin-top:0.5rem;font-size:0.8rem;"><a href="https://www.visitordots.com/create?widget=map&amp;theme_key=white-gray-dots&amp;dot_color=visitor-dots&amp;dot_shape=circle&amp;flag_theme=light&amp;columns=4&amp;maximum=24&amp;layout=feature&amp;from=widget">Get a free visitor map like this</a></p>
 </div>
 
