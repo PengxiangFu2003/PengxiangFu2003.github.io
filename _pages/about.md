@@ -89,3 +89,14 @@ Mengwei Niu<sup>\*</sup>, **Pengxiang Fu<sup>\*</sup>**, Hui Zhao, Sijie Niu, Xi
 - <img class="education-logo" src="/images/shanghaitech-emblem.png" alt="ShanghaiTech University logo"> **2026–Present**, M.Sc. student in Biomedical Engineering, [ShanghaiTech University](https://www.shanghaitech.edu.cn/), [IDEA Lab](http://idea.bme.shanghaitech.edu.cn/). Advisor: [Prof. Dinggang Shen](https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85165/page.htm).
 - <img class="education-logo" src="/images/university-of-jinan-logo.png" alt="University of Jinan logo"> **2021–2026**, B.Eng. in Computer Science and Technology, [University of Jinan](https://www.ujn.edu.cn/). Undergraduate research advisors: [Prof. Hui Zhao](https://yjs.ujn.edu.cn/info/1212/13116.htm) and [Prof. Bin Guan](https://space.bilibili.com/52502322). Prof. Guan is also a well-known <a href="https://www.counter-strike.net/"><img src="https://cdn.fastly.steamstatic.com/apps/csgo/images/csgo_react/global/logo_cs_sm_blk.svg" alt="" aria-hidden="true" style="height:1em;width:auto;vertical-align:-0.15em;margin-right:0.2em;">Counter-Strike</a> content creator.
 
+<span class='anchor' id='visitor-map'></span>
+
+# 🌍 Visitor Map
+
+<div style="text-align:center;">
+  <a href="https://www.visitordots.com/details/vd_hDW2yaukXuIHVDcSj7oAaXx6" aria-label="View visitor map details">
+    <img src="https://map.visitordots.com/vmap/202702590414509.png" alt="Visitor map" style="display:block;width:100%;max-width:800px;height:auto;border:0;margin:0 auto;">
+  </a>
+  <p style="margin-top:0.5rem;font-size:0.8rem;"><a href="https://www.visitordots.com/create?widget=map&amp;theme_key=white-gray-dots&amp;dot_color=visitor-dots&amp;dot_shape=circle&amp;flag_theme=light&amp;columns=4&amp;maximum=24&amp;layout=feature&amp;from=widget">Get a free visitor map like this</a></p>
+</div>
+
