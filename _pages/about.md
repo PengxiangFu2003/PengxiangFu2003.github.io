@@ -29,7 +29,7 @@ My research focuses on **fetal brain imaging**, **medical image atlas constructi
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications | <sup>\*</sup> Equal Contribution
+# 📝 Publications | <sup>†</sup> Equal Contribution
 
 ## Journal Papers
 
@@ -40,7 +40,7 @@ My research focuses on **fetal brain imaging**, **medical image atlas constructi
 ## Conference Papers
 
 **[Predefined-Time Synchronization Control of Fractional-Order Multi-modal Memristive Neural Networks](https://ieeexplore.ieee.org/abstract/document/11228438/)**  
-Mengwei Niu<sup>\*</sup>, **Pengxiang Fu<sup>\*</sup>**, Hui Zhao, Sijie Niu, Xizhan Gao, Mingwen Zheng, Lixiang Li  
+Mengwei Niu<sup>†</sup>, **Pengxiang Fu<sup>†</sup>**, Hui Zhao, Sijie Niu, Xizhan Gao, Mingwen Zheng, Lixiang Li<br>
 *2025 International Joint Conference on Neural Networks (IJCNN 2025)*
 
 <span class='anchor' id='funding'></span>
